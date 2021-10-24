@@ -61,6 +61,7 @@ source name_of_the_env/bin/activate
 ```
 ## Screenshots of the App
 
+<img src="https://user-images.githubusercontent.com/87152293/138593784-d6242eac-eaf6-4dca-904d-770a7ebd6236.png" alt="IMG_20211023_001926" style="max-width: 384px;">
 
 
 
