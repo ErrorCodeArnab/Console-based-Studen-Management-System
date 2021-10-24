@@ -1,7 +1,9 @@
 
 # Student_Management_System
 
-This is a basic Student Management System using Python.
+This is a basic Student Management System.
+
+I made this using of Python and it is a console based application.
 
 Basic Data Structure is used in this project. 
 
@@ -61,8 +63,11 @@ source name_of_the_env/bin/activate
 ```
 ## Screenshots of the App
 
-<img src="https://user-images.githubusercontent.com/87152293/138593784-d6242eac-eaf6-4dca-904d-770a7ebd6236.png" alt="IMG_20211023_001926" style="max-width: 384px;">
 
+![Screenshot (96)](https://user-images.githubusercontent.com/87152293/138594741-c5bd7fec-e7eb-42f9-9e46-b8284f4ecbf0.png)
+
+
+![Screenshot (97)](https://user-images.githubusercontent.com/87152293/138594773-ff2c5dae-36c9-4207-b47c-538f2e56c532.png)
 
 
 ## Feedback
